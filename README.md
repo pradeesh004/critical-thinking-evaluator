@@ -1,4 +1,4 @@
-##CRITICAL THINKING QUESTION GENERATOR & EVALUATOR
+#CRITICAL THINKING QUESTION GENERATOR & EVALUATOR
 
 This project is an AI-powered Critical Thinking Assessment Tool that generates deep, thought-provoking questions based on a chosen topic and evaluates the user's answers for critical thinking ability using Bloom's Taxonomy.
 
